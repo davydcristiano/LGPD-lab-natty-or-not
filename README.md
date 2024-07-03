@@ -35,7 +35,7 @@ O Resultado de criar esse desafio foi muito legal, pois consegui entender mais s
 
 ```
 
-### Exemplos e Insigths
+### Minhas outras atividades
 
 - [E-BOOK](/LGPD-Explicada/E-BOOK.md)
 - [Podcast](/LGPD-Explicada/PODCAST.md)
